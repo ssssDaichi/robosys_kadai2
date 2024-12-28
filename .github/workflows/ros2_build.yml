@@ -23,9 +23,11 @@ jobs:
       # 3. 依存関係のインストール
       - name: Install dependencies
         run: |
-          sudo apt update
+          apt-get update && apt-get install -y python3-pip
+          pip3 install --upgrade pip
           rosdep update
           rosdep install --from-paths src --ignore-src -r -y
+
 
       # 4. colcon ビルド
       - name: Build the workspace
