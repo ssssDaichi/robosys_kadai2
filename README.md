@@ -15,3 +15,5 @@
    ```bash
    git clone https://github.com/ssssDaichi/robosys_kadai2.git
    cd robosys_kadai2
+## ライセンス
+このパッケージは [Apache License 2.0](LICENSE) の下で公開されています。
