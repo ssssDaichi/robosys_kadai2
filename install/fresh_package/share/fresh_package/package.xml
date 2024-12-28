@@ -4,7 +4,7 @@
   <name>fresh_package</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="marumaru09030903@gmail.com">Daichi Hirose</maintainer>
+  <maintainer email="marumaru09030903@gmail.com">hirose</maintainer>
   <license>TODO: License declaration</license>
 
   <test_depend>ament_copyright</test_depend>

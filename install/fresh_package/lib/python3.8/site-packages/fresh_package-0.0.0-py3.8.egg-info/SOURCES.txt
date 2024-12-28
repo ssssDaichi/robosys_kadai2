@@ -1,0 +1,16 @@
+README.md
+setup.cfg
+setup.py
+build/fresh_package/fresh_package.egg-info/PKG-INFO
+build/fresh_package/fresh_package.egg-info/SOURCES.txt
+build/fresh_package/fresh_package.egg-info/dependency_links.txt
+build/fresh_package/fresh_package.egg-info/entry_points.txt
+build/fresh_package/fresh_package.egg-info/requires.txt
+build/fresh_package/fresh_package.egg-info/top_level.txt
+build/fresh_package/fresh_package.egg-info/zip-safe
+fresh_package/__init__.py
+fresh_package/listener.py
+fresh_package/talker.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

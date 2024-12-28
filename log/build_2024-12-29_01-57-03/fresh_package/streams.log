@@ -1,0 +1,35 @@
+[0.342s] Invoking command in '/home/hirose/fresh_ros2_ws/src/fresh_package': PYTHONPATH=/home/hirose/fresh_ros2_ws/src/fresh_package/build/fresh_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hirose/fresh_ros2_ws/src/fresh_package/install/fresh_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/fresh_package build --build-base /home/hirose/fresh_ros2_ws/src/fresh_package/build/fresh_package/build install --record /home/hirose/fresh_ros2_ws/src/fresh_package/build/fresh_package/install.log --install-scripts $base/lib/fresh_package --single-version-externally-managed
+[0.446s] running egg_info
+[0.447s] creating build/fresh_package/fresh_package.egg-info
+[0.447s] writing build/fresh_package/fresh_package.egg-info/PKG-INFO
+[0.447s] writing dependency_links to build/fresh_package/fresh_package.egg-info/dependency_links.txt
+[0.448s] writing entry points to build/fresh_package/fresh_package.egg-info/entry_points.txt
+[0.448s] writing requirements to build/fresh_package/fresh_package.egg-info/requires.txt
+[0.448s] writing top-level names to build/fresh_package/fresh_package.egg-info/top_level.txt
+[0.449s] writing manifest file 'build/fresh_package/fresh_package.egg-info/SOURCES.txt'
+[0.468s] reading manifest file 'build/fresh_package/fresh_package.egg-info/SOURCES.txt'
+[0.469s] writing manifest file 'build/fresh_package/fresh_package.egg-info/SOURCES.txt'
+[0.469s] running build
+[0.469s] running build_py
+[0.469s] creating /home/hirose/fresh_ros2_ws/src/fresh_package/build/fresh_package/build
+[0.470s] creating /home/hirose/fresh_ros2_ws/src/fresh_package/build/fresh_package/build/lib
+[0.470s] creating /home/hirose/fresh_ros2_ws/src/fresh_package/build/fresh_package/build/lib/fresh_package
+[0.470s] copying fresh_package/talker.py -> /home/hirose/fresh_ros2_ws/src/fresh_package/build/fresh_package/build/lib/fresh_package
+[0.470s] copying fresh_package/listener.py -> /home/hirose/fresh_ros2_ws/src/fresh_package/build/fresh_package/build/lib/fresh_package
+[0.470s] copying fresh_package/__init__.py -> /home/hirose/fresh_ros2_ws/src/fresh_package/build/fresh_package/build/lib/fresh_package
+[0.470s] running install
+[0.471s] running install_lib
+[0.471s] creating /home/hirose/fresh_ros2_ws/src/fresh_package/install/fresh_package/lib/python3.8/site-packages/fresh_package
+[0.471s] copying /home/hirose/fresh_ros2_ws/src/fresh_package/build/fresh_package/build/lib/fresh_package/talker.py -> /home/hirose/fresh_ros2_ws/src/fresh_package/install/fresh_package/lib/python3.8/site-packages/fresh_package
+[0.472s] copying /home/hirose/fresh_ros2_ws/src/fresh_package/build/fresh_package/build/lib/fresh_package/listener.py -> /home/hirose/fresh_ros2_ws/src/fresh_package/install/fresh_package/lib/python3.8/site-packages/fresh_package
+[0.472s] copying /home/hirose/fresh_ros2_ws/src/fresh_package/build/fresh_package/build/lib/fresh_package/__init__.py -> /home/hirose/fresh_ros2_ws/src/fresh_package/install/fresh_package/lib/python3.8/site-packages/fresh_package
+[0.472s] byte-compiling /home/hirose/fresh_ros2_ws/src/fresh_package/install/fresh_package/lib/python3.8/site-packages/fresh_package/talker.py to talker.cpython-38.pyc
+[0.472s] byte-compiling /home/hirose/fresh_ros2_ws/src/fresh_package/install/fresh_package/lib/python3.8/site-packages/fresh_package/listener.py to listener.cpython-38.pyc
+[0.473s] byte-compiling /home/hirose/fresh_ros2_ws/src/fresh_package/install/fresh_package/lib/python3.8/site-packages/fresh_package/__init__.py to __init__.cpython-38.pyc
+[0.473s] running install_egg_info
+[0.474s] Copying build/fresh_package/fresh_package.egg-info to /home/hirose/fresh_ros2_ws/src/fresh_package/install/fresh_package/lib/python3.8/site-packages/fresh_package-0.0.0-py3.8.egg-info
+[0.475s] running install_scripts
+[0.485s] Installing listener script to /home/hirose/fresh_ros2_ws/src/fresh_package/install/fresh_package/lib/fresh_package
+[0.485s] Installing talker script to /home/hirose/fresh_ros2_ws/src/fresh_package/install/fresh_package/lib/fresh_package
+[0.486s] writing list of installed files to '/home/hirose/fresh_ros2_ws/src/fresh_package/build/fresh_package/install.log'
+[0.500s] Invoked command in '/home/hirose/fresh_ros2_ws/src/fresh_package' returned '0': PYTHONPATH=/home/hirose/fresh_ros2_ws/src/fresh_package/build/fresh_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hirose/fresh_ros2_ws/src/fresh_package/install/fresh_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/fresh_package build --build-base /home/hirose/fresh_ros2_ws/src/fresh_package/build/fresh_package/build install --record /home/hirose/fresh_ros2_ws/src/fresh_package/build/fresh_package/install.log --install-scripts $base/lib/fresh_package --single-version-externally-managed
