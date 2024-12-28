@@ -1,4 +1,0 @@
-[console_scripts]
-listener = fresh_package.listener:main
-talker = fresh_package.talker:main
-
